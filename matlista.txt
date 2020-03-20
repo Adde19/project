@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is A463-1A66
+
+ Directory of C:\Users\asdel\Phyton
+
+2020-03-20  09:37    <DIR>          .
+2020-03-20  09:37    <DIR>          ..
+2020-03-20  09:37                 0 matlista.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  62ÿ847ÿ496ÿ192 bytes free
