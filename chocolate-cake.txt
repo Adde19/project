@@ -1,0 +1,15 @@
+ Volume in drive C is Acer
+ Volume Serial Number is A463-1A66
+
+ Directory of C:\Users\asdel\Phyton
+
+2020-03-20  11:54    <DIR>          .
+2020-03-20  11:54    <DIR>          ..
+2020-03-20  11:54                 0 chocolate-cake.txt
+2020-03-20  11:09                 0 dessert.txt
+2020-03-20  09:37               333 matlista.txt
+2020-03-20  11:09                 0 skola.txt
+2020-03-20  11:09                 0 sommar.txt
+2020-03-20  11:09                 0 stockholm.txt
+               6 File(s)            333 bytes
+               2 Dir(s)  62ÿ780ÿ952ÿ576 bytes free
